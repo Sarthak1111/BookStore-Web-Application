@@ -1,0 +1,70 @@
+
+
+1. OBJECTIVE:  The objective of this test plan is to test functionalities for User Registration, User Login, User Dashboard 
+and Book Management API.
+
+2. SCOPE: 
+	i) What to include:
+	- User Registration
+		- Testing of all form fields
+		- Validating all form fields rules
+		- Verify all error messages
+		
+	- User Login:
+		- Testing with all valid/invalid credentials
+		- Verify all error messages
+		- Verify session management
+		
+	- User Dashboard:
+		- Verify all test data should display
+		- Verify user interaction and navigation
+		
+	- Book Management API:
+		- Adding a Book: Test with valid and invalid inputs.
+		- Retrieving a Book: Test with valid and invalid book IDs.
+		- Updating Book Details: Test with valid and invalid data.
+		- Deleting a Book: Test with valid and invalid book IDs.
+	
+	ii) Test Environment:
+	- Hardware: OS:Windows, processor:i5, ram:16gm , drive:256gb
+	- Software: QA-env, Java version, Browser chrome, Selenium, TestNG
+
+3. ROLES AND RESPONSILBILTIES:
+	- QA Engineer: Sarthak Kaushik
+	- QA Manager: ABC
+	- Developers: ABC1, ABC2
+	- Project Manager: ABC
+
+4. DELIVERABLES:
+	- Test plan
+	- Test cases
+	- Bug Report
+	- Requirement Traceability Matrix
+
+5. TEST SCHEDULE:
+	- Test starting date:
+	- Test ending date:
+	- Internal availability:
+	- General availability:
+	
+6. TOOLS:
+	- Excel, Xray, Confluence, Jira, Eclipse
+	
+7. RISKS AND MITIGATION:
+	i) Risk- Suppose in mid of testing a team member can leave for long time in an emergency.
+	   Mitigation- So we need to replace the person with other immediately. Or distribute the work with other team members who has more 
+	      bandwidth. So that deadlines would not be imapacted.
+	ii) Risk: Poor navigation, confusing layout, or usability issues could result in customer frustration and reduced sales.
+	    Mitigation: Conduct usability testing with real users to identify interface problems. Gather feedback and iterate on design improvements
+		before deployment. Ensure consistency across different devices and browsers.
+
+8. APPROVALS:		
+	Who will approve test plan, test cases? 
+	Person name:
+	
+9. TEST STRATEGY:
+	What type of testing we are going todo in this project? like Smoke, Regression, Sanity, Functional, Restesting etc
+	
+
+	
+
