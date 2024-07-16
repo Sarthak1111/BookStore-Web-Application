@@ -3,6 +3,7 @@ https://bookstore-url/
 
 Repo contains:
 Manaul Testing- Test Plan, Test Cases and Bug Report.
+
 Automation Testing- Selenium TestNG Automation scripts.
 
 About
