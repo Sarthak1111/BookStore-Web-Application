@@ -2,8 +2,8 @@ Dummy BookStore
 https://bookstore-url/
 
 Repo contains:
-Manaul Testing- Test Plan, Test Cases and Bug Report
-Automation Testing
+Manaul Testing- Test Plan, Test Cases and Bug Report.
+Automation Testing- Selenium TestNG Automation scripts.
 
 About
 A user-friendly Online Bookstore project in which users can log in or register, view the available books. The project can also be used by the administrator, 
