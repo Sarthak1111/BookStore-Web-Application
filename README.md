@@ -51,7 +51,8 @@ Add external testng Jar for Assert class:
 -import org.testng.Assert;
 
 Specific point:
-Code will not run as this is a dummy website with dummy locators
+
+NOTE*Code will not run as this is a dummy website with dummy locators
 
 Author Contact:-
 LinkedIn: https://www.linkedin.com/in/sarthakkaushik1111/
