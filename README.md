@@ -57,13 +57,16 @@ Testing:-
 
 Dependencies and prerequisites:-
 
-- Java 8 Installed
+-Java 8 Installed
+  
 -Selenium
+
 -WebDriverManager
 
 Add external testng Jar for Assert class:
 
 -import org.testng.Assert
+
 
 
 Specific point:-
