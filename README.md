@@ -1,11 +1,13 @@
 Dummy BookStore
 https://bookstore-url/
 
+
 Repo contains:
 
 Manaul Testing- Test Plan, Test Cases and Bug Report.
 
 Automation Testing- Selenium TestNG Automation scripts.
+
 
 About
 A user-friendly Online Bookstore project in which users can log in or register, view the available books. The project can also be used by the administrator, 
@@ -35,12 +37,12 @@ Users Have Following Access for this online store site:-
 
 Technologies used:-
 
-Front-End Development:
+Front-End Development:-
 1. HTML
 2. CSS
 3. VueJS
 
-Back-End Development:
+Back-End Development:-
 1. Java [JDK 8+]
 2. Database:
 3. GraphQL
@@ -58,11 +60,14 @@ Dependencies and prerequisites:-
 -WebDriverManager
 
 Add external testng Jar for Assert class:
+
 -import org.testng.Assert
 
-Specific point:
+
+Specific point:-
 
 NOTE*Code will not run as this is a dummy website with dummy locators
+
 
 
 Author Contact:-
@@ -71,5 +76,7 @@ LinkedIn: https://www.linkedin.com/in/sarthakkaushik1111/
 
 Github: https://github.com/Sarthak1111
 
+
 License:-
+
 Copyright © 2024 Sarthak Kaushik.
