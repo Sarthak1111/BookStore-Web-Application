@@ -71,7 +71,9 @@ Add external testng Jar for Assert class:
 
 Specific point:-
 
-NOTE*Code will not run as this is a dummy website with dummy locators
+How to run:
+
+NOTE*Code will not run as this is a dummy website url and dummy locators
 
 
 
