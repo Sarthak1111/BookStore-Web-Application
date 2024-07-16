@@ -9,9 +9,11 @@ Manaul Testing- Test Plan, Test Cases and Bug Report.
 Automation Testing- Selenium TestNG Automation scripts.
 
 
-About
+About:-
+
 A user-friendly Online Bookstore project in which users can log in or register, view the available books. The project can also be used by the administrator, 
 who can add new books, remove books, increase and decrease the quantity of books, change the price of the books as well as maintain the selling history of books.
+
 
 This Website is built for following purpose:-
 
