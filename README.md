@@ -36,29 +36,34 @@ Users Have Following Access for this online store site:-
 Technologies used:-
 
 Front-End Development:
-HTML
-CSS
-VueJS
+1. HTML
+2. CSS
+3. VueJS
+
 Back-End Development:
-Java [JDK 8+]
-Database:
-GraphQL
+1. Java [JDK 8+]
+2. Database:
+3. GraphQL
+
 Testing:-
-Java
-Selenium
-TestNG
+1. Java
+2. Selenium
+3. TestNG
 
 
 Dependencies and prerequisites:-
+
 - Java 8 Installed
 -Selenium
 -WebDriverManager
+
 Add external testng Jar for Assert class:
--import org.testng.Assert;
+-import org.testng.Assert
 
 Specific point:
 
 NOTE*Code will not run as this is a dummy website with dummy locators
+
 
 Author Contact:-
 
