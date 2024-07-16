@@ -46,11 +46,14 @@ and Book Management API.
 	- Test ending date:
 	- Internal availability:
 	- General availability:
-	
-6. TOOLS:
+
+6. TEST STRATEGY:
+	What type of testing we are going todo in this project? like Smoke, Regression, Sanity, Functional, Restesting etc	
+
+7. TOOLS:
 	- Excel, Xray, Confluence, Jira, Eclipse
 	
-7. RISKS AND MITIGATION:
+8. RISKS AND MITIGATION:
 	i) Risk- Suppose in mid of testing a team member can leave for long time in an emergency.
 	   Mitigation- So we need to replace the person with other immediately. Or distribute the work with other team members who has more 
 	      bandwidth. So that deadlines would not be imapacted.
@@ -58,13 +61,15 @@ and Book Management API.
 	    Mitigation: Conduct usability testing with real users to identify interface problems. Gather feedback and iterate on design improvements
 		before deployment. Ensure consistency across different devices and browsers.
 
-8. APPROVALS:		
+9. APPROVALS:		
 	Who will approve test plan, test cases? 
 	Person name:
 	
-9. TEST STRATEGY:
-	What type of testing we are going todo in this project? like Smoke, Regression, Sanity, Functional, Restesting etc
-	
+10. Useful link:
+	Test cases:
+	Test Suite:
+	Git Repo:
+	Bug Report:
 
 	
 
