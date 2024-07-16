@@ -1,6 +1,10 @@
 Dummy BookStore
 https://bookstore-url/
 
+Repo contains:
+Manaul Testing- Test Plan, Test Cases and Bug Report
+Automation Testing
+
 About
 A user-friendly Online Bookstore project in which users can log in or register, view the available books. The project can also be used by the administrator, 
 who can add new books, remove books, increase and decrease the quantity of books, change the price of the books as well as maintain the selling history of books.
@@ -55,7 +59,9 @@ Specific point:
 NOTE*Code will not run as this is a dummy website with dummy locators
 
 Author Contact:-
+
 LinkedIn: https://www.linkedin.com/in/sarthakkaushik1111/
+
 Github: https://github.com/Sarthak1111
 
 License:-
